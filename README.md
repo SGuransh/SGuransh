@@ -25,7 +25,7 @@ I'm a Computer Science student at the University of Toronto (Stats Minor), a dis
 **Software Engineer** – Sikh Sparks & Alfina Technologies  
 `Next.js | Terraform | Docker | Azure | REST APIs | Polars`
 
-Check out my full [📄 resume]([Guransh Singh Resume.pdf](https://github.com/user-attachments/files/20824235/Guransh.Singh.Resume.pdf))
+Check out my full [📄 resume](https://github.com/user-attachments/files/20824235/Guransh.Singh.Resume.pdf)
 
 ---
 
