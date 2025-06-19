@@ -1,18 +1,18 @@
-# 👋 Hey, I'm Guransh Singh
+# 👋 Hey, I'm Guransh Singh (SherPlutonium)
 
 I'm a Computer Science student at the University of Toronto (Stats Minor), a distributed systems enthusiast, and a backend engineer passionate about building high-performance, scalable software.
 
 - 🛠️ Building distributed ML inference infrastructure with custom routing + orchestration protocols.
 - 🧠 Exploring LangGraph + LangChain to create agentic AI systems.
 - 🧱 Focused on backend, infrastructure, and cloud-native architectures.
-- 🥋 Outside of code, I run marathons and train in jiu jitsu.
+- 🥋 Outside of code, I play dilruba and train in jiu jitsu.
 
 ---
 
 ## 🧩 My Interests
 - 🌀 Distributed Systems & Cloud Infrastructure (AWS, Terraform)
-- 🧮 Backend Engineering (Python, Go, TypeScript, Node.js, Rust)
-- 🛰️ Data Systems (ETL, Prometheus, Grafana, DB performance)
+- 🧮 Backend Engineering (Python, Go, TypeScript, Rust)
+- 🛰️ Data Systems (Prometheus, Grafana)
 - 🧪 AI Tooling + Agent Frameworks (LangChain, LangGraph)
 - 🔍 Systems Programming + Observability
 
